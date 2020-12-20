@@ -1,0 +1,13 @@
+Command :   git log --oneline --graph --all
+
+Result:
+
+* 5d1d5a4 (HEAD -> master) Added README file
+| * 4f9bdf5 (greeting) modified the 'greeting.txt' file to contain my greeting sentence
+|/
+* 3d63f9c created 'greeting.txt' empty file
+
+
+Explain:
+As we can see above the specificated command draws a graph that represents the branch structure of the commit history. 
+we can see each commit and its belong branch.
